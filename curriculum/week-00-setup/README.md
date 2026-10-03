@@ -3,6 +3,8 @@
 **Time:** 60–90 minutes  
 **Outcome:** a verified development environment and first devnet explorer link.
 
+Start with the [first workshop exercises](../../workshops/01-first-steps/README.md) if you want a guided path through this task.
+
 ## Resources
 
 - [Solana Quick Start](https://solana.com/docs/intro/quick-start) — create a practice wallet, use devnet, and get test SOL in the browser.
@@ -32,4 +34,4 @@ Write a check that prints tool versions and fails clearly when a prerequisite is
 
 ## Project move
 
-Create the team repository, issue labels, a one-sentence user problem, and a `SECURITY.md`.
+Create your own learning repository and write down one student problem you might like to explore.

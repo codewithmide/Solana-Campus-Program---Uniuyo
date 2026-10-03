@@ -7,7 +7,7 @@ You will learn by making small things first, then use those skills to build a pr
 ## Start here
 
 1. Read the [curriculum guide](curriculum/README.md) to see the learning path.
-2. Begin with [Week 0: setup and wallet basics](curriculum/week-00-setup/README.md). Bring a laptop with you.
+2. Begin with the [first workshop exercises](workshops/01-first-steps/README.md), then continue with [Week 0: setup and wallet basics](curriculum/week-00-setup/README.md). Bring a laptop with you.
 3. Make a GitHub repository for your work. Each weekly directory tells you what to build and how to check your result.
 4. Bring your questions, errors, and progress to our campus session. A working prototype is welcome, and so is a problem you have not solved yet.
 
